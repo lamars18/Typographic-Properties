@@ -1,0 +1,26 @@
+<style>
+H1 {
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 10px; 
+
+}   
+   
+h2 {
+    font-size: 20px; 
+    font-size: 50px;
+    font-weight: 1000;
+    line-height: inherit;
+    letter-spacing: 30px; 
+}
+h3 {
+    font-weight: bold;
+}
+p {
+    line-height: 50px;
+    letter-spacing: 10px; 
+}
+   
+</style>
